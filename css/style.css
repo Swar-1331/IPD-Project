@@ -82,8 +82,8 @@ nav ul li a{
 	width: 200px;
 }
 
-@media{
+@media (max-width: 767px) {
 	#img1{
-		width: 90%;
+		width: 80%;
 	}
 }
