@@ -81,9 +81,3 @@ nav ul li a{
 .qualities-img{
 	width: 200px;
 }
-
-@media (max-width: 767px) {
-	#img1{
-		width: 80%;
-	}
-}
